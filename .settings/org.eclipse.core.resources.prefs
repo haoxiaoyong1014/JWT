@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/lib/asm-1.0-RC1.jar=UTF-8
+encoding//WebRoot/WEB-INF/lib/cors-filter-2.2.1.jar=UTF-8
+encoding//src/com/filter/Filter0_CrossOriginResource.java=UTF-8
+encoding//src/com/filter/Filter1_CheckToken.java=UTF-8
+encoding//src/com/jwt/Jwt.java=UTF-8
+encoding//src/com/jwt/JwtTestCase.java=UTF-8
+encoding//src/com/jwt/TokenState.java=UTF-8
+encoding//src/com/servlet/AuthorServlet.java=UTF-8
+encoding//src/com/servlet/LoginServlet.java=UTF-8
+encoding//src/com/servlet/mainServlet.java=UTF-8
+encoding/README.md=UTF-8
